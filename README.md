@@ -1,4 +1,4 @@
-```markdown
+
 # Hi, I'm Jiaxiner 👋
 
 ### Go Backend Engineer · AI-assisted Product Builder
@@ -101,4 +101,3 @@ A Go web puzzle game featuring a water-trapping algorithm, cookie-based sessions
 I'm interested in **Go backend, platform engineering, and AI application engineering** roles where I can combine complex-system experience with AI-assisted product development.
 
 📍 Shanghai · 上海
-```
